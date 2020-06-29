@@ -15,6 +15,7 @@ ESP32に書き込み後、シリアルモニタにサーバーのIPが表示さ�
 
 // Load Wi-Fi library
 #include <WiFi.h>
+#define LED_BUILTIN 2
 
 // Wi-Fi SSID 設定
 const char* ssid     = "YourSSID"; //ご自分のWi-Fi IDに書き換えてください
