@@ -7,4 +7,5 @@ The Sensor board is [MPU-9250](https://amzn.to/3qgf0uc)
 -   VCC -  VCC
 -   GND -  GND
    
-   
+[ditails are in my Homepage](https://tom2rd.sakura.ne.jp/wp/2021/01/14/post-11936/)
+
