@@ -3,5 +3,5 @@
  *  Read potentio and Output Servo pulse, Display and Serial port 
  *  Board :  https://github.com/Xinyuan-LilyGO/TTGO-T-Display
  *  Sample : https://tom2rd.sakura.ne.jp/wp/2019/08/20/post-9781/
- *  Making : https://tom2rd.sakura.ne.jp/wp/
+ *  Making : https://tom2rd.sakura.ne.jp/wp/2022/08/07/post-12894/
  *  Potentio :10 k ohm
