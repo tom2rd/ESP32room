@@ -5,3 +5,5 @@
   
  SDA_2 16  --> BMP2  
  SCL_2 17  
+
+Need Adafruit_BMP085 libralies 
